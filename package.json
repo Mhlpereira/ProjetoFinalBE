@@ -1,0 +1,23 @@
+{
+  "name": "projetofinalbe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mhlpereira/ProjetoFinalBE1.git"
+  },
+  "author": "Mário Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mhlpereira/ProjetoFinalBE1/issues"
+  },
+  "homepage": "https://github.com/Mhlpereira/ProjetoFinalBE1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
